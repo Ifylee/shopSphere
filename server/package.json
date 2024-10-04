@@ -13,11 +13,13 @@
   "license": "ISC",
   "dependencies": {
     "@apollo/server": "^4.7.2",
+    "@reduxjs/toolkit": "^2.2.7",
     "bcrypt": "^4.0.1",
     "express": "^4.17.2",
     "graphql": "^16.6.0",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^8.0.0",
+    "react-redux": "^9.1.2",
     "stripe": "^8.67.0"
   },
   "devDependencies": {
